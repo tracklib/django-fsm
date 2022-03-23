@@ -6,8 +6,8 @@ except IOError:
     long_description = ''
 
 setup(
-    name='django-fsm',
-    version='2.8.0',
+    name='tl-django-fsm',
+    version='2.8.0-1',
     description='Django friendly finite state machine support.',
     author='Mikhail Podgurskiy',
     author_email='kmmbvnr@gmail.com',
